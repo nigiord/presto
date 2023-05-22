@@ -43,5 +43,4 @@ Suggests:
     broom,
     BiocStyle,
     DESeq2
-NeedsCompilation: yes
 VignetteBuilder: knitr
